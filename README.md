@@ -33,19 +33,21 @@ I enjoy working in Agile environments and contributing to QA and software testin
 - Writing Test Cases & RTM  
 - Agile Testing Practices
   
-  ## 📊 GitHub Pulse
 
-<!-- Overall stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linashaqoura612&show_icons=true&hide_title=false&hide=prs&include_all_commits=true)
+## 📊 GitHub Pulse  
 
-<!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Linashaqoura612&date_format=j%20M%5B%20Y%5D)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linashaqoura612&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)
 
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linashaqoura612&layout=compact&langs_count=8)
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Linashaqoura612&theme=radical&hide_border=true)
 
-<!-- Contribution activity graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Linashaqoura612&hide_border=true)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linashaqoura612&layout=compact&langs_count=8&theme=radical&hide_border=true)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Linashaqoura612&theme=radical&hide_border=true)
+
 
 
 📫 **Reach Me**  
