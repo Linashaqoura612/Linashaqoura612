@@ -1,4 +1,4 @@
-LinaShaqoura612/README.md
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Lina+Shaqoura!;QA+Engineer+%E2%80%A2+Manual+%26+Automation+Testing;From+testing+to+assurance%2C+one+bug+at+a+time.)
 
 <hr>
