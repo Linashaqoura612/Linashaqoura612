@@ -1,5 +1,6 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Lina+Shaqoura!;QA+Engineer+%E2%80%A2+Manual+%26+Automation+Testing;From+testing+to+assurance%2C+one+bug+at+a+time.)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Lina+Shaqoura!;QA+Engineer+%E2%80%A2+Manual+%26+Automation+Testing;From+testing+to+assurance%2C+one+bug+at+a+time.)
+
 
 
 
@@ -30,7 +31,22 @@ I enjoy working in Agile environments and contributing to QA and software testin
 - Manual & Automation Testing  
 - API Testing & SQL  
 - Writing Test Cases & RTM  
-- Agile Testing Practices  
+- Agile Testing Practices
+  
+  ## 📊 GitHub Pulse
+
+<!-- Overall stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linashaqoura612&show_icons=true&hide_title=false&hide=prs&include_all_commits=true)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Linashaqoura612&date_format=j%20M%5B%20Y%5D)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linashaqoura612&layout=compact&langs_count=8)
+
+<!-- Contribution activity graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Linashaqoura612&hide_border=true)
+
 
 📫 **Reach Me**  
 📧 linashaqoura2002@gmail.com  
