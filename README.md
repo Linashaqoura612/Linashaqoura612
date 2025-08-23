@@ -1,5 +1,6 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Lina+Shaqoura!;QA+Engineer+%E2%80%A2+Manual+%26+Automation+Testing)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Lina+Shaqoura!;QA+Engineer+%E2%80%A2+Manual+%26+Automation+Testing;From+testing+to+assurance%2C+one+bug+at+a+time.)
+
 
 
 Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with hands-on experience in **manual testing, API testing, SQL, and automation**. My projects have strengthened my skills in structured testing, defect tracking, and Agile collaboration.
