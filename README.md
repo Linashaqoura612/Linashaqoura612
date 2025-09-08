@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with hands-on ex
 🔧 **Tech Stack & Tools**
 
 - Languages: PHP, SQL, Java, Dart, Python  
-- Automation & QA Tools: Selenium, TestNG, Postman  
+- Automation & QA Tools: Selenium, TestNG, Appium, Postman  
 - Databases: MySQL  
 - Project & Bug Tracking: Jira, Trello  
 - Version Control: Git, GitHub  
@@ -21,6 +21,11 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with hands-on ex
 💼 [OrangeHRM Web App – Manual Testing](https://github.com/Linashaqoura612/OrangeHRM-Project)  
 - Designed and executed 195+ manual test cases.  
 - Delivered RTM, bug reports, test plan, and test summary report.  
+
+💻 [OrangeHRM Automation Project](https://github.com/Linashaqoura612/OrangeHRM_Automation_Project)  
+- Automated core workflows of OrangeHRM using Selenium and TestNG.  
+- Implemented Page Object Model (POM) for scalable test scripts.  
+- Integrated automation scripts with TestNG for reporting and CI/CD compatibility.  
 
 📊 [API-SQL Project – QA Testing](https://github.com/Linashaqoura612/API-SQL_Project)  
 - Validated CRUD operations and authentication for Contact List APIs.  
