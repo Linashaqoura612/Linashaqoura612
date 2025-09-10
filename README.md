@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with hands-on ex
 - Designed and executed 195+ manual test cases.  
 - Delivered RTM, bug reports, test plan, and test summary report.  
 
-💻 [OrangeHRM Automation Project](https://github.com/Linashaqoura612/OrangeHRM_Automation_Project)  
+💻 [OrangeHRM Automation Project](https://github.com/Linashaqoura612/OrangeHRM--Automation-Testing)  
 - Automated core workflows of OrangeHRM using Selenium and TestNG.  
 - Implemented Page Object Model (POM) for scalable test scripts.  
 - Integrated automation scripts with TestNG for reporting and CI/CD compatibility.  
