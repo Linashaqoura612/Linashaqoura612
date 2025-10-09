@@ -29,9 +29,15 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with hands-on ex
 
 📊 [API-SQL Project – QA Testing](https://github.com/Linashaqoura612/API-SQL_Project)  
 - Validated CRUD operations and authentication for Contact List APIs.  
-- Used Postman and SQL queries to ensure data accuracy, security, and error handling.
+- Used Postman and SQL queries to ensure data accuracy, security, and error handling.  
+
+📱 [Mobile Performance Testing Project](https://github.com/Linashaqoura612/Mobile-Performance-Testing-Project)  
+- Conducted mobile app performance testing using **JMeter** and **Android Studio**.  
+- Measured responsiveness, resource usage, and network latency under different load scenarios.  
+- Delivered reports highlighting bottlenecks and optimization recommendations.  
 
 <hr>
+
 
 🤝 **Let's Collaborate!**  
 I enjoy working in Agile environments and contributing to QA and software testing projects. Whether it's **manual testing, API validation, or documentation**, I’m open to collaboration!  
