@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Lina+Shaqoura!;QA+Engineer+%E2%80%A2+Manual+%26+Automation+Testing;From+testing+to+assurance%2C+one+bug+at+a+time.)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Lina+Shaqoura!;QA+Engineer+%E2%80%A2+Manual+%26+Automation+Testing;From+testing+to+assurance%2C+one+bug+at+a+time.)
 
 <hr>
 
@@ -32,12 +32,11 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with hands-on ex
 - Used Postman and SQL queries to ensure data accuracy, security, and error handling.  
 
 📱 [Mobile Performance Testing Project](https://github.com/Linashaqoura612/Mobile-Performance-Testing-Project)  
-- Conducted mobile app performance testing using **JMeter** and **Android Studio**.  
+- Conducted mobile app performance testing using **JMeter** and **Android Studio Profiler**.  
 - Measured responsiveness, resource usage, and network latency under different load scenarios.  
 - Delivered reports highlighting bottlenecks and optimization recommendations.  
 
 <hr>
-
 
 🤝 **Let's Collaborate!**  
 I enjoy working in Agile environments and contributing to QA and software testing projects. Whether it's **manual testing, API validation, or documentation**, I’m open to collaboration!  
@@ -72,7 +71,7 @@ I enjoy working in Agile environments and contributing to QA and software testin
 <hr>
 
 <!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Linashaqoura612&theme=radical&hide_border=true)
+![Activity Graph](https://readme-activity-graph.vercel.app/graph?username=Linashaqoura612&theme=radical&hide_border=true)
 
 </div>
 
@@ -91,4 +90,3 @@ I enjoy working in Agile environments and contributing to QA and software testin
 <hr>
 
 Feel free to explore my repositories and ⭐ any project you find interesting! 🚀
-by adding in projects this link https://github.com/Linashaqoura612/Mobile-Performance-Testing-Project
